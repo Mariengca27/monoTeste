@@ -1,11 +1,13 @@
+import Navbar from './components/Navbar';
 import './assets/styles/custom.scss';
 import './App.css';
 
-function App() {
+function App (){
   return (
-    <h2>
-      Teste
-    </h2>
+    <>
+    <Navbar />
+    </>
+
   );
 }
 
