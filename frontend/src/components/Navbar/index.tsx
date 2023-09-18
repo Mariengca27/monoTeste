@@ -6,7 +6,7 @@ function Navbar () {
   <nav className="bg-primary">
     <div>
       <a href="link">
-        <h4>DS Catalog</h4>
+        <h4>Carros Top</h4>
       </a>
       <div>
         <ul>
@@ -16,9 +16,7 @@ function Navbar () {
           <li>
             <a href="link">CATÁLOGO</a>
           </li>
-          <li>
-            <a href="link">ADMIN</a>
-          </li>
+      
         </ul>
       </div>
     </div>

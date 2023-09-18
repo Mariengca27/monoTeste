@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&family=Roboto:wght@300;400;700&display=swap');
+
+/*Estilo global dos componentes */
+
+*{
+font-family: 'Open-sans', sans-serif;
+
+}
+h1,h2,h3,h4{
+font-size: 700;
+margin-bottom: 0;
+
+
+}
